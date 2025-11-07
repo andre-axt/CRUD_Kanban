@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+header a{
+    padding-right: 70px;
+    text-decoration: none;
+    color: black;
+    transform: 2s;
+}
+
+header a:hover{
+    transform: 2s;
+    color: blue;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    
+}
